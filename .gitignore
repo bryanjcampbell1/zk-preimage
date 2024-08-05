@@ -1,0 +1,10 @@
+/node_modules
+/preimage_cpp
+/preimage_js
+/hasher
+*.ptau
+*.zkey
+preimage.r1cs
+preimage.sym
+proof.json
+verification_key.json
